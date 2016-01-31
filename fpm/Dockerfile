@@ -1,4 +1,4 @@
-FROM armhf/php:7-fpm
+FROM armhf/php:7.0-fpm
 
 MAINTAINER Mathew Peterson <mathewpeterson@me.com>
 

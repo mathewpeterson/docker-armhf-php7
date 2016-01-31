@@ -1,4 +1,4 @@
-FROM armhf/php:7-cli
+FROM armhf/php:7.0-cli
 
 MAINTAINER Mathew Peterson <mathewpeterson@me.com>
 
